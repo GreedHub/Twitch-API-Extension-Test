@@ -1,0 +1,2 @@
+### Get user info
+GET http://localhost:5000/healtcheck?login=<username>
